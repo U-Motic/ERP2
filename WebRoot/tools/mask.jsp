@@ -1,3 +1,4 @@
+<%-- mask.jsp --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 <%@taglib prefix="s" uri="/struts-tags"%>
@@ -192,7 +193,7 @@
 		</s:if>
 		*/
 </script>
-
+<%-- here there are the buttons--%>
 <div id="pageOverlay"></div>
 </div>
 <div id="context-msg" class="context-msg" id="context-msg">
@@ -213,3 +214,4 @@
 	<div class="content-bbg content-msg-size content-msg-bottom"></div>
 </div>
 
+<%-- mask.jsp end --%>
